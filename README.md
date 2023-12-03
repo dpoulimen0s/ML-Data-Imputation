@@ -1,4 +1,4 @@
-# Regression and Imputation Comparison - Newcastle University
+# Regression and Imputation Comparison
 
 This repository contains code and analysis for a regression task on predicting median house values in an area. The project was undertaken during the 3rd year of the Bachelor's degree at Newcastle University as part of the Data Engineering course. The main focus is on comparing the performance of two imputation methods, KNN imputation and MICE (Iterative Imputation), in combination with the regression models.
 
