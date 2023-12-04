@@ -25,6 +25,21 @@ To reproduce the results, follow these steps:
 
 ## Results
 
+For M1:
+```
+RMSE:  0.5444858121327647
+MSE:  0.2964647996138764
+MAE:  0.39452035256798146
+R^2:  0.6990466199965089
+```
+
+For M2✓:
+```
+RMSE:  0.4960101919822986
+MSE:  0.24602611055031676
+MAE:  0.3401554339361601
+R^2:  0.750248968391306
+```
 ## Conclusion
 
 ## Contributors
