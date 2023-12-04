@@ -42,6 +42,8 @@ R^2:  0.750248968391306
 ```
 ## Conclusion
 
+M1 and M2 provide different performance because KNN using different approach to impute the missing data from MICE.On the one hand KNN imputed the data in a such a way close to the original ones but the MICE imputed the data with the biggest corellation better as we can see from the comparisson above between original data and imputed ones from both KNN and MICE. In conclusion, the better the impute to the data that has a direct relationship and affects the requested, the better performance our model will have because one variable depends on the other. In this particular example, the median_house_value has a direct relationship with the median_income, so the better the impute is done in this column, the better our model will perform. 
+
 ## Contributors
 
 - Dimitrios Poulimenos ([dpoulimenos](https://www.linkedin.com/in/dpoulimenos/)) - Initial work 
